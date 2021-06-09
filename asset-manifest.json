@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/breaking-bad-frases/static/css/main.ce3148e8.chunk.css",
+    "main.js": "/breaking-bad-frases/static/js/main.318a2b25.chunk.js",
+    "main.js.map": "/breaking-bad-frases/static/js/main.318a2b25.chunk.js.map",
+    "runtime-main.js": "/breaking-bad-frases/static/js/runtime-main.c81e9a52.js",
+    "runtime-main.js.map": "/breaking-bad-frases/static/js/runtime-main.c81e9a52.js.map",
+    "static/js/2.89216bd7.chunk.js": "/breaking-bad-frases/static/js/2.89216bd7.chunk.js",
+    "static/js/2.89216bd7.chunk.js.map": "/breaking-bad-frases/static/js/2.89216bd7.chunk.js.map",
+    "static/js/3.0636cabf.chunk.js": "/breaking-bad-frases/static/js/3.0636cabf.chunk.js",
+    "static/js/3.0636cabf.chunk.js.map": "/breaking-bad-frases/static/js/3.0636cabf.chunk.js.map",
+    "index.html": "/breaking-bad-frases/index.html",
+    "static/css/main.ce3148e8.chunk.css.map": "/breaking-bad-frases/static/css/main.ce3148e8.chunk.css.map",
+    "static/js/2.89216bd7.chunk.js.LICENSE.txt": "/breaking-bad-frases/static/js/2.89216bd7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/breaking-bad-frases/static/media/logo.4543bc50.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c81e9a52.js",
+    "static/js/2.89216bd7.chunk.js",
+    "static/css/main.ce3148e8.chunk.css",
+    "static/js/main.318a2b25.chunk.js"
+  ]
+}
